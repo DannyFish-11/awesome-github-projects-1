@@ -12,196 +12,193 @@
 
 ### 📅 2026-02-05 收录
 
-#### [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+#### [react](https://github.com/facebook/react)
 
-- **Stars**: ⭐ 436,754
-- **Forks**: 🍴 43,309
-- **Language**: TypeScript
-- **License**: BSD 3-Clause "New" or "Revised" License
-- **Description**: freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
-- **Tags**: `careers`, `certification`, `community`, `curriculum`, `d3`
-- **Homepage**: https://contribute.freecodecamp.org
+- **Stars**: ⭐ 242,799
+- **Forks**: 🍴 50,509
+- **Language**: JavaScript
+- **License**: MIT License
+- **Description**: The library for web and native user interfaces.
+- **Tags**: `declarative`, `frontend`, `javascript`, `library`, `react`
+- **Homepage**: https://react.dev
 - **Updated**: 2026-02-05
 
 ---
 
-#### [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+#### [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
 
-- **Stars**: ⭐ 348,569
-- **Forks**: 🍴 43,694
-- **Language**: TypeScript
+- **Stars**: ⭐ 195,515
+- **Forks**: 🍴 31,128
+- **Language**: JavaScript
+- **License**: MIT License
+- **Description**: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+- **Tags**: `algorithm`, `algorithms`, `computer-science`, `data-structures`, `interview`
+- **Updated**: 2026-02-05
+
+---
+
+#### [javascript](https://github.com/airbnb/javascript)
+
+- **Stars**: ⭐ 148,096
+- **Forks**: 🍴 26,764
+- **Language**: JavaScript
+- **License**: MIT License
+- **Description**: JavaScript Style Guide
+- **Tags**: `arrow-functions`, `es2015`, `es2016`, `es2017`, `es2018`
+- **Updated**: 2026-02-05
+
+---
+
+#### [next.js](https://github.com/vercel/next.js)
+
+- **Stars**: ⭐ 137,524
+- **Forks**: 🍴 30,383
+- **Language**: JavaScript
+- **License**: MIT License
+- **Description**: The React Framework
+- **Tags**: `blog`, `browser`, `compiler`, `components`, `hybrid`
+- **Homepage**: https://nextjs.org
+- **Updated**: 2026-02-05
+
+---
+
+#### [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code)
+
+- **Stars**: ⭐ 126,673
+- **Forks**: 🍴 12,431
+- **Language**: JavaScript
+- **License**: Creative Commons Attribution 4.0 International
+- **Description**: Coding articles to level up your development skills
+- **Tags**: `astro`, `awesome-list`, `css`, `education`, `es6-javascript`
+- **Homepage**: https://30secondsofcode.org/
+- **Updated**: 2026-02-05
+
+---
+
+#### [node](https://github.com/nodejs/node)
+
+- **Stars**: ⭐ 115,559
+- **Forks**: 🍴 34,621
+- **Language**: JavaScript
 - **License**: Other
-- **Description**: Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-- **Tags**: `angular-roadmap`, `backend-roadmap`, `blockchain-roadmap`, `computer-science`, `dba-roadmap`
-- **Homepage**: https://roadmap.sh
+- **Description**: Node.js JavaScript runtime ✨🐢🚀✨
+- **Tags**: `javascript`, `js`, `linux`, `macos`, `mit`
+- **Homepage**: https://nodejs.org
 - **Updated**: 2026-02-05
 
 ---
 
-#### [vue](https://github.com/vuejs/vue)
+#### [three.js](https://github.com/mrdoob/three.js)
 
-- **Stars**: ⭐ 209,899
-- **Forks**: 🍴 33,891
-- **Language**: TypeScript
+- **Stars**: ⭐ 110,718
+- **Forks**: 🍴 36,266
+- **Language**: JavaScript
 - **License**: MIT License
-- **Description**: This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
-- **Tags**: `framework`, `frontend`, `javascript`, `vue`
-- **Homepage**: http://v2.vuejs.org
+- **Description**: JavaScript 3D Library.
+- **Tags**: `3d`, `augmented-reality`, `canvas`, `html5`, `javascript`
+- **Homepage**: https://threejs.org/
 - **Updated**: 2026-02-05
 
 ---
 
-#### [vscode](https://github.com/microsoft/vscode)
+#### [axios](https://github.com/axios/axios)
 
-- **Stars**: ⭐ 181,397
-- **Forks**: 🍴 37,746
-- **Language**: TypeScript
+- **Stars**: ⭐ 108,566
+- **Forks**: 🍴 11,506
+- **Language**: JavaScript
 - **License**: MIT License
-- **Description**: Visual Studio Code
-- **Tags**: `editor`, `electron`, `microsoft`, `typescript`, `visual-studio-code`
-- **Homepage**: https://code.visualstudio.com
+- **Description**: Promise based HTTP client for the browser and node.js
+- **Tags**: `hacktoberfest`, `http-client`, `javascript`, `nodejs`, `promise`
+- **Homepage**: https://axios-http.com
 - **Updated**: 2026-02-05
 
 ---
 
-#### [n8n](https://github.com/n8n-io/n8n)
+#### [create-react-app](https://github.com/facebook/create-react-app)
 
-- **Stars**: ⭐ 173,102
-- **Forks**: 🍴 54,518
-- **Language**: TypeScript
-- **License**: Other
-- **Description**: Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- **Tags**: `ai`, `apis`, `automation`, `cli`, `data-flow`
-- **Homepage**: https://n8n.io
-- **Updated**: 2026-02-05
-
----
-
-#### [openclaw](https://github.com/openclaw/openclaw)
-
-- **Stars**: ⭐ 164,815
-- **Forks**: 🍴 26,021
-- **Language**: TypeScript
+- **Stars**: ⭐ 103,955
+- **Forks**: 🍴 27,139
+- **Language**: JavaScript
 - **License**: MIT License
-- **Description**: Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 
-- **Tags**: `ai`, `assistant`, `crustacean`, `molty`, `openclaw`
-- **Homepage**: https://openclaw.ai
+- **Description**: Set up a modern web app by running one command.
+- **Tags**: `build-tools`, `react`, `zero-configuration`
+- **Homepage**: https://create-react-app.dev
 - **Updated**: 2026-02-05
 
 ---
 
-#### [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+#### [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 
-- **Stars**: ⭐ 137,421
-- **Forks**: 🍴 16,434
-- **Language**: TypeScript
+- **Stars**: ⭐ 98,484
+- **Forks**: 🍴 7,358
+- **Language**: JavaScript
+- **License**: Creative Commons Zero v1.0 Universal
+- **Description**:  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- **Tags**: `app`, `apple`, `application`, `apps`, `awesome`
+- **Homepage**: https://git.io/macx
+- **Updated**: 2026-02-05
+
+---
+
+#### [material-ui](https://github.com/mui/material-ui)
+
+- **Stars**: ⭐ 97,767
+- **Forks**: 🍴 32,780
+- **Language**: JavaScript
 - **License**: MIT License
-- **Description**: Curated coding interview preparation materials for busy software engineers
-- **Tags**: `algorithm`, `algorithm-interview`, `algorithm-interview-questions`, `algorithms`, `behavioral-interviews`
-- **Homepage**: https://www.techinterviewhandbook.org
+- **Description**: Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
+- **Tags**: `design-system`, `material-design`, `material-ui`, `react`, `react-components`
+- **Homepage**: https://mui.com/material-ui/
 - **Updated**: 2026-02-05
 
 ---
 
-#### [dify](https://github.com/langgenius/dify)
+#### [Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-- **Stars**: ⭐ 128,744
-- **Forks**: 🍴 20,036
-- **Language**: TypeScript
-- **License**: Other
-- **Description**: Production-ready platform for agentic workflow development.
-- **Tags**: `agent`, `agentic-ai`, `agentic-framework`, `agentic-workflow`, `ai`
-- **Homepage**: https://dify.ai
-- **Updated**: 2026-02-05
-
----
-
-#### [excalidraw](https://github.com/excalidraw/excalidraw)
-
-- **Stars**: ⭐ 116,055
-- **Forks**: 🍴 12,389
-- **Language**: TypeScript
+- **Stars**: ⭐ 95,231
+- **Forks**: 🍴 15,112
+- **Language**: JavaScript
 - **License**: MIT License
-- **Description**: Virtual whiteboard for sketching hand-drawn like diagrams
-- **Tags**: `canvas`, `collaboration`, `diagrams`, `drawing`, `hacktoberfest`
-- **Homepage**: https://excalidraw.com
+- **Description**: 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- **Tags**: `css`, `curriculum`, `education`, `html`, `javascript`
 - **Updated**: 2026-02-05
 
 ---
 
-#### [iptv](https://github.com/iptv-org/iptv)
+#### [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
-- **Stars**: ⭐ 111,064
-- **Forks**: 🍴 5,540
-- **Language**: TypeScript
-- **License**: The Unlicense
-- **Description**: Collection of publicly available IPTV channels from all over the world
-- **Tags**: `iptv`, `m3u`, `playlist`, `streams`, `tv`
-- **Homepage**: https://iptv-org.github.io
-- **Updated**: 2026-02-05
-
----
-
-#### [TypeScript](https://github.com/microsoft/TypeScript)
-
-- **Stars**: ⭐ 107,681
-- **Forks**: 🍴 13,219
-- **Language**: TypeScript
-- **License**: Apache License 2.0
-- **Description**: TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- **Tags**: `javascript`, `language`, `typechecker`, `typescript`
-- **Homepage**: https://www.typescriptlang.org
-- **Updated**: 2026-02-05
-
----
-
-#### [ui](https://github.com/shadcn-ui/ui)
-
-- **Stars**: ⭐ 106,110
-- **Forks**: 🍴 7,820
-- **Language**: TypeScript
+- **Stars**: ⭐ 94,289
+- **Forks**: 🍴 12,505
+- **Language**: JavaScript
 - **License**: MIT License
-- **Description**: A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
-- **Tags**: `base-ui`, `components`, `nextjs`, `radix-ui`, `react`
-- **Homepage**: https://ui.shadcn.com
+- **Description**: Clean Code concepts adapted for JavaScript
+- **Tags**: `best-practices`, `clean-architecture`, `clean-code`, `composition`, `inheritance`
 - **Updated**: 2026-02-05
 
 ---
 
-#### [angular](https://github.com/angular/angular)
+#### [svelte](https://github.com/sveltejs/svelte)
 
-- **Stars**: ⭐ 99,804
-- **Forks**: 🍴 27,044
-- **Language**: TypeScript
+- **Stars**: ⭐ 85,687
+- **Forks**: 🍴 4,757
+- **Language**: JavaScript
 - **License**: MIT License
-- **Description**: Deliver web apps with confidence 🚀
-- **Tags**: `angular`, `javascript`, `pwa`, `typescript`, `web`
-- **Homepage**: https://angular.dev
+- **Description**: web development for the rest of us
+- **Tags**: `compiler`, `template`, `ui`
+- **Homepage**: https://svelte.dev
 - **Updated**: 2026-02-05
 
 ---
 
-#### [opencode](https://github.com/anomalyco/opencode)
+#### [uptime-kuma](https://github.com/louislam/uptime-kuma)
 
-- **Stars**: ⭐ 97,854
-- **Forks**: 🍴 9,247
-- **Language**: TypeScript
+- **Stars**: ⭐ 82,377
+- **Forks**: 🍴 7,355
+- **Language**: JavaScript
 - **License**: MIT License
-- **Description**: The open source coding agent.
-- **Homepage**: https://opencode.ai
-- **Updated**: 2026-02-05
-
----
-
-#### [ant-design](https://github.com/ant-design/ant-design)
-
-- **Stars**: ⭐ 97,449
-- **Forks**: 🍴 54,482
-- **Language**: TypeScript
-- **License**: MIT License
-- **Description**: An enterprise-class UI design language and React UI library
-- **Tags**: `ant-design`, `antd`, `design-systems`, `react`, `typescript`
-- **Homepage**: https://ant.design
+- **Description**: A fancy self-hosted monitoring tool
+- **Tags**: `docker`, `monitor`, `monitoring`, `responsive`, `self-hosted`
+- **Homepage**: https://uptime.kuma.pet
 - **Updated**: 2026-02-05
 
 ---
