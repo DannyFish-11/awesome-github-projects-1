@@ -11,6 +11,173 @@
 
 ## 📋 项目列表
 
+### 📅 2026-02-05 收录
+
+#### [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+
+- **⭐ Stars**: 116,286 | **🍴 Forks**: 28,354
+- **💻 Language**: None | **📜 License**: GNU General Public License v3.0
+- **📝 Description**: :books: 免费的计算机编程类中文书籍，欢迎投稿
+- **🏷️ Topics**: `android`, `angular`, `books`, `free`, `ios`
+- **🔗 Homepage**: [🏠 Homepage](http://weibo.com/justjavac)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [excalidraw](https://github.com/excalidraw/excalidraw)
+
+- **⭐ Stars**: 116,055 | **🍴 Forks**: 12,389
+- **💻 Language**: TypeScript | **📜 License**: MIT License
+- **📝 Description**: Virtual whiteboard for sketching hand-drawn like diagrams
+- **🏷️ Topics**: `canvas`, `collaboration`, `diagrams`, `drawing`, `hacktoberfest`
+- **🔗 Homepage**: [🏠 Homepage](https://excalidraw.com)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [node](https://github.com/nodejs/node)
+
+- **⭐ Stars**: 115,559 | **🍴 Forks**: 34,621
+- **💻 Language**: JavaScript | **📜 License**: Other
+- **📝 Description**: Node.js JavaScript runtime ✨🐢🚀✨
+- **🏷️ Topics**: `javascript`, `js`, `linux`, `macos`, `mit`
+- **🔗 Homepage**: [🏠 Homepage](https://nodejs.org)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)
+
+- **⭐ Stars**: 113,311 | **🍴 Forks**: 29,438
+- **💻 Language**: None | **📜 License**: GNU General Public License v3.0
+- **📝 Description**: FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models
+- **🏷️ Topics**: `ai`, `bolt`, `cluely`, `copilot`, `cursor`
+- **🔗 Homepage**: N/A
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [d3](https://github.com/d3/d3)
+
+- **⭐ Stars**: 112,260 | **🍴 Forks**: 22,824
+- **💻 Language**: Shell | **📜 License**: ISC License
+- **📝 Description**: Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
+- **🏷️ Topics**: `chart`, `charts`, `d3`, `data-visualization`, `svg`
+- **🔗 Homepage**: [🏠 Homepage](https://d3js.org)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [iptv](https://github.com/iptv-org/iptv)
+
+- **⭐ Stars**: 111,064 | **🍴 Forks**: 5,540
+- **💻 Language**: TypeScript | **📜 License**: The Unlicense
+- **📝 Description**: Collection of publicly available IPTV channels from all over the world
+- **🏷️ Topics**: `iptv`, `m3u`, `playlist`, `streams`, `tv`
+- **🔗 Homepage**: [🏠 Homepage](https://iptv-org.github.io)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [three.js](https://github.com/mrdoob/three.js)
+
+- **⭐ Stars**: 110,718 | **🍴 Forks**: 36,266
+- **💻 Language**: JavaScript | **📜 License**: MIT License
+- **📝 Description**: JavaScript 3D Library.
+- **🏷️ Topics**: `3d`, `augmented-reality`, `canvas`, `html5`, `javascript`
+- **🔗 Homepage**: [🏠 Homepage](https://threejs.org/)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [rust](https://github.com/rust-lang/rust)
+
+- **⭐ Stars**: 110,053 | **🍴 Forks**: 14,435
+- **💻 Language**: Rust | **📜 License**: Apache License 2.0
+- **📝 Description**: Empowering everyone to build reliable and efficient software.
+- **🏷️ Topics**: `compiler`, `language`, `rust`
+- **🔗 Homepage**: [🏠 Homepage](https://www.rust-lang.org)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [axios](https://github.com/axios/axios)
+
+- **⭐ Stars**: 108,566 | **🍴 Forks**: 11,506
+- **💻 Language**: JavaScript | **📜 License**: MIT License
+- **📝 Description**: Promise based HTTP client for the browser and node.js
+- **🏷️ Topics**: `hacktoberfest`, `http-client`, `javascript`, `nodejs`, `promise`
+- **🔗 Homepage**: [🏠 Homepage](https://axios-http.com)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [TypeScript](https://github.com/microsoft/TypeScript)
+
+- **⭐ Stars**: 107,681 | **🍴 Forks**: 13,219
+- **💻 Language**: TypeScript | **📜 License**: Apache License 2.0
+- **📝 Description**: TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- **🏷️ Topics**: `javascript`, `language`, `typechecker`, `typescript`
+- **🔗 Homepage**: [🏠 Homepage](https://www.typescriptlang.org)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [grok2api](https://github.com/chenyme/grok2api)
+
+- **⭐ Stars**: 1,003 | **🍴 Forks**: 304
+- **💻 Language**: Python | **📜 License**: MIT License
+- **📝 Description**: 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
+- **🏷️ Topics**: `grok`, `grok-4-1-thinking`, `grok-4-fast`, `grok-imagine`
+- **🔗 Homepage**: N/A
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [CAPEv2](https://github.com/kevoreilly/CAPEv2)
+
+- **⭐ Stars**: 2,985 | **🍴 Forks**: 534
+- **💻 Language**: Python | **📜 License**: Other
+- **📝 Description**: Malware Configuration And Payload Extraction
+- **🏷️ Topics**: `cape`, `configs`, `debugging-tools`, `malware`, `malware-analysis`
+- **🔗 Homepage**: [🏠 Homepage](https://capesandbox.com/analysis/)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [dokploy](https://github.com/Dokploy/dokploy)
+
+- **⭐ Stars**: 29,879 | **🍴 Forks**: 2,028
+- **💻 Language**: TypeScript | **📜 License**: Other
+- **📝 Description**: Open Source Alternative to Vercel, Netlify and Heroku.
+- **🏷️ Topics**: `backend`, `backups`, `databases`, `deployment`, `devops`
+- **🔗 Homepage**: [🏠 Homepage](https://dokploy.com/)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [jan](https://github.com/janhq/jan)
+
+- **⭐ Stars**: 40,319 | **🍴 Forks**: 2,509
+- **💻 Language**: TypeScript | **📜 License**: Other
+- **📝 Description**: Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- **🏷️ Topics**: `chatgpt`, `gpt`, `llamacpp`, `llm`, `localai`
+- **🔗 Homepage**: [🏠 Homepage](https://jan.ai/)
+- **📅 Last Updated**: 2026-02-05
+
+---
+
+#### [oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)
+
+- **⭐ Stars**: 28,270 | **🍴 Forks**: 2,076
+- **💻 Language**: TypeScript | **📜 License**: Other
+- **📝 Description**: The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- **🏷️ Topics**: `ai`, `ai-agents`, `amp`, `anthropic`, `chatgpt`
+- **🔗 Homepage**: N/A
+- **📅 Last Updated**: 2026-02-05
+
+---
+
 ### 📅 2026-02-02 收录
 
 ---
