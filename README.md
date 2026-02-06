@@ -6,9 +6,171 @@
 
 - **总项目数**: 30
 - **最后更新**: 2026-02-05
-- **Star 阈值**: 1000+
 
-## 📚 项目列表
+### 📅 2026-02-05 收录
+
+#### 1. [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+- **Stars**: ⭐ 334,486 | **Forks**: 🍴 54,294
+- **Language**: Python | **License**: Other
+- **Description**: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- **Topics**: `design`, `design-patterns`, `design-system`, `development`, `interview`
+- **Last Updated**: 2026-02-06
+
+---
+
+#### 2. [flutter](https://github.com/flutter/flutter)
+
+- **Stars**: ⭐ 174,978 | **Forks**: 🍴 29,932
+- **Language**: Dart | **License**: BSD 3-Clause "New" or "Revised" License
+- **Description**: Flutter makes it easy and fast to build beautiful apps for mobile and beyond
+- **Topics**: `android`, `app-framework`, `cross-platform`, `dart`, `dart-platform`
+- **Homepage**: https://flutter.dev
+- **Last Updated**: 2026-02-06
+
+---
+
+#### 3. [stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+
+- **Stars**: ⭐ 160,404 | **Forks**: 🍴 29,920
+- **Language**: Python | **License**: GNU Affero General Public License v3.0
+- **Description**: Stable Diffusion web UI
+- **Topics**: `ai`, `ai-art`, `deep-learning`, `diffusion`, `gradio`
+- **Last Updated**: 2026-02-06
+
+---
+
+#### 4. [angular](https://github.com/angular/angular)
+
+- **Stars**: ⭐ 99,803 | **Forks**: 🍴 27,046
+- **Language**: TypeScript | **License**: MIT License
+- **Description**: Deliver web apps with confidence 🚀
+- **Topics**: `angular`, `javascript`, `pwa`, `typescript`, `web`
+- **Homepage**: https://angular.dev
+- **Last Updated**: 2026-02-06
+
+---
+
+#### 5. [fastapi](https://github.com/fastapi/fastapi)
+
+- **Stars**: ⭐ 94,832 | **Forks**: 🍴 8,633
+- **Language**: Python | **License**: MIT License
+- **Description**: FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- **Topics**: `api`, `async`, `asyncio`, `fastapi`, `framework`
+- **Homepage**: https://fastapi.tiangolo.com/
+- **Last Updated**: 2026-02-06
+
+---
+
+#### 6. [puppeteer](https://github.com/puppeteer/puppeteer)
+
+- **Stars**: ⭐ 93,500 | **Forks**: 🍴 9,371
+- **Language**: TypeScript | **License**: Apache License 2.0
+- **Description**: JavaScript API for Chrome and Firefox
+- **Topics**: `automation`, `chrome`, `chromium`, `developer-tools`, `firefox`
+- **Homepage**: https://pptr.dev
+- **Last Updated**: 2026-02-05
+
+---
+
+#### 7. [django](https://github.com/django/django)
+
+- **Stars**: ⭐ 86,689 | **Forks**: 🍴 33,624
+- **Language**: Python | **License**: BSD 3-Clause "New" or "Revised" License
+- **Description**: The Web framework for perfectionists with deadlines.
+- **Topics**: `apps`, `django`, `framework`, `models`, `orm`
+- **Homepage**: https://www.djangoproject.com/
+- **Last Updated**: 2026-02-05
+
+---
+
+#### 8. [playwright](https://github.com/microsoft/playwright)
+
+- **Stars**: ⭐ 82,195 | **Forks**: 🍴 5,090
+- **Language**: TypeScript | **License**: Apache License 2.0
+- **Description**: Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+- **Topics**: `automation`, `chrome`, `chromium`, `e2e-testing`, `electron`
+- **Homepage**: https://playwright.dev
+- **Last Updated**: 2026-02-06
+
+---
+
+#### 9. [webpack](https://github.com/webpack/webpack)
+
+- **Stars**: ⭐ 65,947 | **Forks**: 🍴 9,228
+- **Language**: JavaScript | **License**: MIT License
+- **Description**: A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- **Topics**: `amd`, `build-tool`, `commonjs`, `compiler`, `es2015`
+- **Homepage**: https://webpack.js.org
+- **Last Updated**: 2026-02-06
+
+---
+
+#### 10. [appwrite](https://github.com/appwrite/appwrite)
+
+- **Stars**: ⭐ 54,681 | **Forks**: 🍴 4,975
+- **Language**: TypeScript | **License**: BSD 3-Clause "New" or "Revised" License
+- **Description**: Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
+- **Topics**: `android`, `appwrite`, `backend`, `backend-as-a-service`, `docker`
+- **Homepage**: https://appwrite.io
+- **Last Updated**: 2026-02-06
+
+---
+
+#### 11. [material-design-icons](https://github.com/google/material-design-icons)
+
+- **Stars**: ⭐ 52,833 | **Forks**: 🍴 9,729
+- **Language**: None | **License**: Apache License 2.0
+- **Description**: Material Design icons by Google (Material Symbols)
+- **Topics**: `android`, `icons`, `ios`, `material`, `material-design`
+- **Homepage**: http://google.github.io/material-design-icons/
+- **Last Updated**: 2026-02-05
+
+---
+
+#### 12. [ionic-framework](https://github.com/ionic-team/ionic-framework)
+
+- **Stars**: ⭐ 52,336 | **Forks**: 🍴 13,404
+- **Language**: TypeScript | **License**: MIT License
+- **Description**: A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.
+- **Topics**: `angular`, `capacitor`, `framework`, `frontend`, `ionic`
+- **Homepage**: https://ionicframework.com
+- **Last Updated**: 2026-02-05
+
+---
+
+#### 13. [expo](https://github.com/expo/expo)
+
+- **Stars**: ⭐ 47,017 | **Forks**: 🍴 10,845
+- **Language**: TypeScript | **License**: MIT License
+- **Description**: An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
+- **Topics**: `android`, `app-framework`, `expo`, `framework`, `frontend`
+- **Homepage**: https://docs.expo.dev
+- **Last Updated**: 2026-02-05
+
+---
+
+#### 14. [GitHubDaily](https://github.com/GitHubDaily/GitHubDaily)
+
+- **Stars**: ⭐ 45,049 | **Forks**: 🍴 4,535
+- **Language**: None | **License**: No license
+- **Description**: 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
+- **Topics**: `ai`, `algorithms-and-data-structures`, `backend`, `developer-tools`, `development`
+- **Homepage**: https://githubdaily.com
+- **Last Updated**: 2026-02-05
+
+---
+
+#### 15. [EasySpider](https://github.com/NaiboWang/EasySpider)
+
+- **Stars**: ⭐ 44,044 | **Forks**: 🍴 5,391
+- **Language**: JavaScript | **License**: GNU Affero General Public License v3.0
+- **Description**: A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
+- **Topics**: `batch-processing`, `batch-script`, `code-free`, `crawler`, `data-collection`
+- **Homepage**: https://www.easyspider.net
+- **Last Updated**: 2026-02-05
+
+---
 
 ### 📅 2026-02-05 收录
 
