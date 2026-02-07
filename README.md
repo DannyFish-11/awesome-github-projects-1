@@ -4,8 +4,8 @@
 
 ## 📊 统计信息
 
-- **总项目数**: 30
-- **最后更新**: 2026-02-05
+- **总项目数**: 60
+- **最后更新**: 2026-02-06
 
 ### 📅 2026-02-05 收录
 
@@ -545,6 +545,219 @@
 - **Tags**: `docker`, `monitor`, `monitoring`, `responsive`, `self-hosted`
 - **Homepage**: https://uptime.kuma.pet
 - **Updated**: 2026-02-05
+
+---
+
+
+### 📅 2026-02-06 收录
+
+#### 1. [starship](https://github.com/starship/starship)
+
+**描述**: ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+**统计**: ⭐ 53,961 | 🍴 2,359 | 📝 Rust | 📜 ISC License
+
+**标签**: `bash`, `fish`, `fish-prompt`, `fish-theme`, `oh-my-zsh`
+
+**主页**: [🏠 主页](https://starship.rs)
+
+**更新时间**: 2026-02-06
+
+---
+
+#### 2. [ant-design](https://github.com/ant-design/ant-design)
+
+**描述**: An enterprise-class UI design language and React UI library
+
+**统计**: ⭐ 97,457 | 🍴 54,482 | 📝 TypeScript | 📜 MIT License
+
+**标签**: `ant-design`, `antd`, `design-systems`, `react`, `typescript`
+
+**主页**: [🏠 主页](https://ant.design)
+
+**更新时间**: 2026-02-06
+
+---
+
+#### 3. [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)
+
+**描述**: A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+**统计**: ⭐ 96,221 | 🍴 7,061 | 📝 TypeScript | 📜 GNU General Public License v3.0
+
+**标签**: `clash`, `clash-meta`, `clash-verge`, `linux`, `mac`
+
+**主页**: [🏠 主页](https://www.clashverge.dev)
+
+**更新时间**: 2026-02-07
+
+---
+
+#### 4. [kestra](https://github.com/kestra-io/kestra)
+
+**描述**: Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+
+**统计**: ⭐ 26,318 | 🍴 2,479 | 📝 Java | 📜 Apache License 2.0
+
+**标签**: `automation`, `data-orchestration`, `devops`, `hacktoberfest`, `high-availability`
+
+**主页**: [🏠 主页](https://kestra.io)
+
+**更新时间**: 2026-02-06
+
+---
+
+#### 5. [meilisearch](https://github.com/meilisearch/meilisearch)
+
+**描述**: A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+**统计**: ⭐ 55,769 | 🍴 2,362 | 📝 Rust | 📜 Other
+
+**标签**: `ai`, `api`, `app-search`, `database`, `enterprise-search`
+
+**主页**: [🏠 主页](https://www.meilisearch.com)
+
+**更新时间**: 2026-02-06
+
+---
+
+#### 6. [sentry](https://github.com/getsentry/sentry)
+
+**描述**: Developer-first error tracking and performance monitoring
+
+**统计**: ⭐ 43,106 | 🍴 4,599 | 📝 Python | 📜 Other
+
+**标签**: `apm`, `crash-reporting`, `crash-reports`, `csp-report`, `devops`
+
+**主页**: [🏠 主页](https://sentry.io)
+
+**更新时间**: 2026-02-07
+
+---
+
+#### 7. [union](https://github.com/unionlabs/union)
+
+**描述**: The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.
+
+**统计**: ⭐ 74,342 | 🍴 3,844 | 📝 Rust | 📜 Apache License 2.0
+
+**标签**: `astro`, `blockchain`, `cosmos`, `cosmwasm`, `ethereum`
+
+**主页**: [🏠 主页](https://union.build)
+
+**更新时间**: 2026-02-06
+
+---
+
+#### 8. [project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+
+**描述**: Curated list of project-based tutorials
+
+**统计**: ⭐ 257,756 | 🍴 33,626 | 📝 None | 📜 MIT License
+
+**标签**: `beginner-project`, `cpp`, `golang`, `javascript`, `project`
+
+**主页**: 无
+
+**更新时间**: 2026-02-07
+
+---
+
+#### 9. [opencode](https://github.com/anomalyco/opencode)
+
+**描述**: The open source coding agent.
+
+**统计**: ⭐ 99,249 | 🍴 9,414 | 📝 TypeScript | 📜 MIT License
+
+**标签**: 无
+
+**主页**: [🏠 主页](https://opencode.ai)
+
+**更新时间**: 2026-02-07
+
+---
+
+#### 10. [next.js](https://github.com/vercel/next.js)
+
+**描述**: The React Framework
+
+**统计**: ⭐ 137,550 | 🍴 30,405 | 📝 JavaScript | 📜 MIT License
+
+**标签**: `blog`, `browser`, `compiler`, `components`, `hybrid`
+
+**主页**: [🏠 主页](https://nextjs.org)
+
+**更新时间**: 2026-02-06
+
+---
+
+#### 11. [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
+**描述**: Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+
+**统计**: ⭐ 334,565 | 🍴 54,304 | 📝 Python | 📜 Other
+
+**标签**: `design`, `design-patterns`, `design-system`, `development`, `interview`
+
+**主页**: 无
+
+**更新时间**: 2026-02-07
+
+---
+
+#### 12. [gin](https://github.com/gin-gonic/gin)
+
+**描述**: Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.
+
+**统计**: ⭐ 87,914 | 🍴 8,553 | 📝 Go | 📜 MIT License
+
+**标签**: `framework`, `gin`, `go`, `middleware`, `performance`
+
+**主页**: [🏠 主页](https://gin-gonic.com/)
+
+**更新时间**: 2026-02-07
+
+---
+
+#### 13. [deno](https://github.com/denoland/deno)
+
+**描述**: A modern runtime for JavaScript and TypeScript.
+
+**统计**: ⭐ 106,072 | 🍴 5,886 | 📝 Rust | 📜 MIT License
+
+**标签**: `deno`, `javascript`, `rust`, `typescript`
+
+**主页**: [🏠 主页](https://deno.com)
+
+**更新时间**: 2026-02-07
+
+---
+
+#### 14. [tesseract](https://github.com/tesseract-ocr/tesseract)
+
+**描述**: Tesseract Open Source OCR Engine (main repository)
+
+**统计**: ⭐ 72,278 | 🍴 10,484 | 📝 C++ | 📜 Apache License 2.0
+
+**标签**: `hacktoberfest`, `lstm`, `machine-learning`, `ocr`, `ocr-engine`
+
+**主页**: [🏠 主页](https://tesseract-ocr.github.io/)
+
+**更新时间**: 2026-02-06
+
+---
+
+#### 15. [dify](https://github.com/langgenius/dify)
+
+**描述**: Production-ready platform for agentic workflow development.
+
+**统计**: ⭐ 128,935 | 🍴 20,055 | 📝 TypeScript | 📜 Other
+
+**标签**: `agent`, `agentic-ai`, `agentic-framework`, `agentic-workflow`, `ai`
+
+**主页**: [🏠 主页](https://dify.ai)
+
+**更新时间**: 2026-02-07
 
 ---
 
